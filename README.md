@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=israeloliveiradev&show_icons=true&theme=transparent" alt="Israel Oliveira GitHub stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Top Langs"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeloliveiradev&layout=compact" alt="Top Langs"></td>
   </tr>
 </table>
 
