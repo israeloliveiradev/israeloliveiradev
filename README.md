@@ -11,23 +11,18 @@
 </h3>
 
 <div align="center">
-  🌱 I’m currently learning: <strong>Spring Boot, Angular, AWS</strong><br/>
-  💬 Ask me about: <strong>Java, Spring Boot</strong><br/>
-  ⚡ Fun fact: <strong>I have worked twice on a reality show</strong>
+  🌱 I’m currently learning: <strong>Spring Boot, Angular, AWS</strong><br/><br/>
   
-</div>
+  💬 Ask me about: <strong>Java, Spring Boot</strong><br/><br/>
+  
+  ⚡ Fun fact: <strong>I have worked twice on a reality show</strong>
+
 <div align="center">
     <span style="margin-right: 20px;">
         <a href="mailto:israeloliveiracontact@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-        </a>
-      </span>
-    </span>
-    <span>
         <a href="https://www.linkedin.com/in/israeloliveiradev/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-    </span>
 </div>
 
 </a>
