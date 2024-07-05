@@ -1,10 +1,10 @@
 
 
-<!-- Título principal com animação de digitação -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=90&lines=System.out.print(%22Hi+There!+%F0%9F%91%8B;I'm+Israel+Oliveira+%F0%9F%91%A8%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB)" />
 
-<!-- Descrição -->
+
 <img align="right" src="https://media.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif" width="250px">
 <h3 align="center">
   A passionate Full Stack Developer from Brazil
@@ -15,11 +15,11 @@
   💬 Ask me about: <strong>Java, Spring Boot</strong><br/>
   ⚡ Fun fact: <strong>I have worked twice on a reality show</strong>
   
-</div>
+</div><br/>
 
+<h1 align="center">📱Contacts</h1>
 
-<br/>
-<div align="center"> 
+<div align="center">
   <a href="mailto:israeloliveiracontact@gmail.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 
 </a>
 
