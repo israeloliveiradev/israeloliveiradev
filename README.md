@@ -16,18 +16,21 @@
   ⚡ Fun fact: <strong>I have worked twice on a reality show</strong>
   
 </div>
-
-<!-- Links para redes sociais -->
-<br/>
-<div align="center"> 
-  <a href="mailto:israeloliveiracontact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/israeloliveiradev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+    <span style="margin-right: 20px;">
+        <a href="mailto:israeloliveiracontact@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        </a>
+      </span>
+    </span>
+    <span>
+        <a href="https://www.linkedin.com/in/israeloliveiradev/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+    </span>
+</div>
 
 </a>
-
 <!-- Tabela para badges de Languages and Tools -->
 </br><h1 align=center>⚒️ My Favorite Tools and Technologies ⚒️</h1>
   <a href="https://skillicons.dev">
